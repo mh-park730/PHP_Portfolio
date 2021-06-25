@@ -1,0 +1,61 @@
+/* footer 영역 S */
+footer .footer {
+	font-size: 1.17rem;
+	background-color: #eeeeee;
+	height: 60px;
+	line-height: 60px;
+}
+
+footer .footer_bar {
+	width: 1200px;
+	border: 1px solid #000000;
+	margin: 0 auto 2px;
+}
+
+.footer .sitenm {
+	float: left;
+	padding-left: 20px;
+}
+
+.footer .admin {
+	float: right;
+	padding-right: 20px;
+}
+
+.footer .xi-mail-o {
+	font-size: 1.33rem;
+	position: relative;
+	top: 2px;
+}
+
+.footer .admin .mail {
+	color: #37003c;
+}
+
+.footer .admin .mail:hover {
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+/* footer 영역 E */
+
+/* aside 메뉴 영역 S */
+.aside_wrap {
+	position: fixed;
+	z-index: 10;
+	right: 5px;
+	bottom: 50px;
+	font-size: 1.17rem;
+	text-align: center;
+}
+
+.aside_wrap a {
+	display: block;
+	background-color: #37003c;
+	border-radius: 5px;
+	color: #ffffff;
+	padding: 2px 5px;
+	line-height: 24px;
+	margin-bottom: 5px;
+}
+/* aside 메뉴 영역 E */
