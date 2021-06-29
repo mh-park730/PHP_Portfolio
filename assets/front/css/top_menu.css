@@ -1,5 +1,8 @@
 /* 탑 배너 영역 S */
-.top_menu { margin-bottom: 150px; }
+.top_menu {
+	margin-bottom: 150px;
+}
+
 .top_menu .menu_wrap .inner a {
 	display: inline-block;
 	margin-right: 1px;
@@ -33,6 +36,7 @@
 nav {
 	margin-top: 20px;
 }
+
 .gnb .gnb_wrap {
 	border: 1px solid #37003c;
 	border-radius: 15px;
@@ -48,8 +52,14 @@ nav {
 	display: inline-block;
 }
 
-.gnb .gnb_wrap .bar { display: inline-block; padding: 0 30px; color: #ffffff; }
+.gnb .gnb_wrap .bar {
+	display: inline-block;
+	padding: 0 30px;
+	color: #ffffff;
+}
 
-.gnb .gnb_wrap li a { color: #ffffff; }
+.gnb .gnb_wrap li a {
+	color: #ffffff;
+}
 /* 메인 메뉴 영역 E */
 /* 탑 배너 영역 E */
